@@ -1,8 +1,8 @@
 # TableauProject
-Introduction 
+# Introduction 
 This is a dataset i was working with to try and visualize sales data in United States. 
 
-Files 
+# Files 
 Sample - Supersets Text File 
 Tool -Tableau
 Objectives 
