@@ -2,6 +2,9 @@
 Introduction 
 This is a dataset i was working with to try and visualize sales data in United States. 
 
+Files 
+Sample - Supersets Text File 
+Tool -Tableau
 Objectives 
    * Which regions and states are making high profits 
   
